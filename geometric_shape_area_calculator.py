@@ -75,7 +75,7 @@ def main():
     	print(f"The area is: {area:.2f} square units.") # DO NOT MODIFY
 
     # TODO: Print a statement explaining each step required to find and complete your technical assignments.  Be specific. 
-        print("Intially I would go to Canvas and accept the assignment, after accepting the assignment I would click on the link that will direct me to github. Copy the assignment using the clipboard. I will move over to VS code then git clone and paste the link after that. git status git add .")
+    print("Intially I would go to Canvas and accept the assignment, after accepting the assignment I would click on the link that will direct me to github. Copy the assignment using the clipboard. I will move over to VS code then git clone and paste the link after that. git status git add .")
 
 if __name__ == "__main__": # DO NOT MODIFY
     main() # DO NOT MODIFY
